@@ -1,0 +1,97 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+p {
+    color: #555555;
+}
+
+a {
+    text-decoration: none;
+    color: #F76B1C;
+}
+
+.parent-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+}
+.background-image {
+    width: 125vw;
+    height: 125vh;
+    background: url("madeleine.jpg");
+    background-size: cover;
+    -webkit-filter: blur(2vw);
+    -moz-filter: blur(2vw);
+    -o-filter: blur(2vw);
+    -ms-filter: blur(2vw);
+    filter: blur(2vw);
+    z-index: -1;
+    position: absolute;
+}
+
+.inner {
+    width: 75vw;
+    height: 75vh;
+    background-color: rgba(255,255,255, 0.6);
+    z-index: 1000;
+    display: flex;
+}
+
+.img-area {
+    width: 37.5vw;
+}
+
+.img-area img{
+    width: 100%;
+    height: 75vh;
+}
+
+.text-area {
+    flex: 1;
+    text-align: center;
+}
+
+.text-area h1 {
+    margin-top: 3em;
+}
+
+input  {
+    width: 65%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid #808080;
+    background: rgba(255,255,255,0)
+}
+
+form {
+    position: relative;
+}
+
+.eyespan {
+    position: absolute;
+    top: 8em;
+    right: 6em;
+    color: #555555;
+}
+
+
+
+button {
+    background: #FAD961; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left top, #FAD961, #F76B1C); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, #FAD961, #F76B1C); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, #FAD961, #F76B1C); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #FAD961, #F76B1C); /* Standard syntax */
+    color: #fff;
+    display: block;
+    padding: 10px 20px;
+    margin: 1.25em auto;
+    font-size: 17px;
+    border: 0px solid transparent;
+    border-radius: 4px;
+}
