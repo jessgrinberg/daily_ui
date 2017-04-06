@@ -109,4 +109,32 @@ button {
     .img-area {
         display: none;
     }
+
+    .eyespan {
+        right: 6em;
+    }
+}
+
+@media (max-width:539px) {
+    .eyespan {
+        right: 4em;
+    }
+}
+
+@media (min-width:530px) and (max-width:655px) {
+    .eyespan {
+        right: 5em;
+    }
+}
+
+@media (min-width:700px) and (max-width:971px) {
+    .eyespan {
+        right: 4em;
+    }
+}
+
+@media (min-width:975px) and (max-width:1180px) {
+    .eyespan {
+        right: 5em;
+    }
 }
