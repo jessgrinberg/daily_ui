@@ -1,0 +1,47 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    display: inline-block;
+    font-size: 21em;
+    font-weight: 900;
+    margin: 0;
+}
+
+h2 {
+    font-size: 2.5em;
+}
+
+p {
+    color: #555555;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 4px;
+    padding: 16px 26px;
+    opacity: .8;
+    background: linear-gradient(to right bottom, #E8684F, #FA9E23);
+    background: -webkit-linear-gradient(right bottom, #E8684F, #FA9E23);
+    background: -o-linear-gradient(right bottom, #E8684F, #FA9E23); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right bottom, #E8684F, #FA9E23); /* For Firefox 3.6 to 15 */
+    transition: all .3s;
+}
+
+a:hover {
+    opacity: 1;
+
+}
+
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.btn {
+    margin: 3em;
+}

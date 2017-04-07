@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="245px" height="255px" viewBox="0 0 245 255" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>logo-larger</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="47.199893%" y1="-18.7777856%" x2="50%" y2="103.498292%" id="linearGradient-1">
+            <stop stop-color="#FA9E23" offset="0%"></stop>
+            <stop stop-color="#FA9C24" offset="3.78432885%"></stop>
+            <stop stop-color="#F89828" offset="11.4513737%"></stop>
+            <stop stop-color="#E8684F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="148.039762%" id="linearGradient-2">
+            <stop stop-color="#E8684F" offset="0%"></stop>
+            <stop stop-color="#FA9E23" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="008-404-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-577.000000, -206.000000)">
+            <g id="logo-larger" transform="translate(590.000000, 219.000000)">
+                <path d="M99.7645396,0.326697372 C243.024594,5.15224831 268.473612,234.361816 108.229169,228.877937 C-26.8591315,224.254951 -38.5299558,17.1794229 91.2488786,0.326697372 L99.7645396,0.326697372 Z" id="Path-2" stroke="url(#linearGradient-1)" stroke-width="25" fill="#FFFFFF"></path>
+                <path d="M127.863993,179.140381 C190.179111,162.306687 182.540091,94.6793073 152.001648,60.4238691 C135.268771,41.6543461 106.44801,40.348789 90.6296224,45.5744715 C89.627461,46.1006054 96.2520516,43.7663818 95.6930917,43.8827254 C93.2086962,44.399835 93.1365437,44.2967825 90.6296224,45.5744715 C88.7792705,46.5208852 85.0799917,48.3268046 83.3551683,49.3721031 C16.44251,89.9233271 45.4031973,201.416192 127.863993,179.140381 Z" id="Path-3" stroke="url(#linearGradient-2)" stroke-width="25" transform="translate(110.656856, 112.487845) rotate(325.000000) translate(-110.656856, -112.487845) "></path>
+                <path d="M100.207607,114.32374 L228.957914,20.2734606" id="Path-4" stroke="#000000" stroke-width="8"></path>
+                <path d="M89.1896261,93.9339278 C132.524082,85.1832956 137.680213,93.7792046 116.993767,129.543505" id="Path-5" stroke="#000000" stroke-width="8" transform="translate(108.953675, 110.154738) rotate(2.000000) translate(-108.953675, -110.154738) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
