@@ -1,4 +1,4 @@
-html {
+html, a {
     color: #fff;
 }
 
@@ -32,7 +32,7 @@ h5 i {
 }
 
 form {
-    margin: 2em 0;
+    margin: 2em 0 0 0;
 }
 
 .btn {
@@ -41,4 +41,14 @@ form {
 
 .btn:hover {
     background-color: #FBDA61;
+}
+
+@media (max-width:992px) {
+    .total, .details {
+        height: auto;
+    }
+
+    .total-amount {
+        margin: 3em;
+    }
 }
