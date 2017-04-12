@@ -1,0 +1,23 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.left, .right , .center {
+    align-self: center;
+}
+
+.left span, .right span {
+    padding: 0 .5em;
+}
+
+.center {
+    text-transform: uppercase;
+    font-size: 2em;
+}
